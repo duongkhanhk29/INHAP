@@ -1,4 +1,4 @@
-ID,Code,Country name,year,Life Ladder,Log GDP per capita,Social support,Healthy life expectancy at birth,Freedom to make life choices,Generosity,Perceptions of corruption,Positive affect,Negative affect,gini_disp,gini_mkt,Incomegroup,Region
+ID,Code,Country name,year,Life_ladder,Log_GDPpc,Social_support,life_expectancy,Freedom,Generosity,Corruption,Pos_affect,Neg_affect,gini_disp,gini_mkt,Incomegroup,Region
 AFG2008,AFG,Afghanistan,2008,3.724,7.370,0.451,50.800,0.718,0.168,0.882,0.518,0.258,31.6,33.3,Low income,South Asia
 AFG2009,AFG,Afghanistan,2009,4.402,7.540,0.552,51.200,0.679,0.190,0.850,0.584,0.237,31.7,33.4,Low income,South Asia
 AFG2010,AFG,Afghanistan,2010,4.758,7.647,0.539,51.600,0.600,0.121,0.707,0.618,0.275,31.8,33.5,Low income,South Asia
@@ -829,15 +829,15 @@ ITA2017,ITA,Italy,2017,6.199,10.640,0.920,73.400,0.633,-0.035,0.867,0.661,0.323,
 ITA2018,ITA,Italy,2018,6.517,10.650,0.913,73.600,0.650,-0.021,0.888,0.649,0.403,33.7,51.8,High income,Europe & Central Asia
 ITA2019,ITA,Italy,2019,6.445,10.655,0.838,73.800,0.709,-0.082,0.866,0.631,0.328,33.7,51.8,High income,Europe & Central Asia
 ITA2020,ITA,Italy,2020,6.488,10.563,0.890,74.000,0.718,-0.150,0.844,0.670,0.311,,,High income,Europe & Central Asia
-CIV2009,CIV,C魌e d'Ivoire,2009,4.197,8.209,0.667,45.780,0.760,-0.153,0.902,0.604,0.186,53.8,55.1,Lower middle income,Sub-Saharan Africa
-CIV2013,CIV,C魌e d'Ivoire,2013,3.739,8.274,0.709,47.100,0.739,-0.031,0.691,0.743,0.306,55,56.1,Lower middle income,Sub-Saharan Africa
-CIV2014,CIV,C魌e d'Ivoire,2014,3.570,8.334,0.711,47.400,0.781,-0.080,0.671,0.647,0.291,55.3,56.4,Lower middle income,Sub-Saharan Africa
-CIV2015,CIV,C魌e d'Ivoire,2015,4.445,8.393,0.704,47.700,0.800,-0.053,0.744,0.664,0.347,55.6,56.7,Lower middle income,Sub-Saharan Africa
-CIV2016,CIV,C魌e d'Ivoire,2016,4.543,8.437,0.617,48.300,0.769,-0.043,0.757,0.704,0.378,,,Lower middle income,Sub-Saharan Africa
-CIV2017,CIV,C魌e d'Ivoire,2017,5.038,8.483,0.661,48.900,0.732,-0.111,0.771,0.698,0.357,,,Lower middle income,Sub-Saharan Africa
-CIV2018,CIV,C魌e d'Ivoire,2018,5.268,8.523,0.621,49.500,0.713,-0.050,0.791,0.682,0.386,,,Lower middle income,Sub-Saharan Africa
-CIV2019,CIV,C魌e d'Ivoire,2019,5.392,8.564,0.679,50.100,0.736,-0.017,0.799,0.674,0.425,,,Lower middle income,Sub-Saharan Africa
-CIV2020,CIV,C魌e d'Ivoire,2020,5.257,8.565,0.613,50.700,0.770,0.016,0.777,0.693,0.340,,,Lower middle income,Sub-Saharan Africa
+CIV2009,CIV,C么te d'Ivoire,2009,4.197,8.209,0.667,45.780,0.760,-0.153,0.902,0.604,0.186,53.8,55.1,Lower middle income,Sub-Saharan Africa
+CIV2013,CIV,C么te d'Ivoire,2013,3.739,8.274,0.709,47.100,0.739,-0.031,0.691,0.743,0.306,55,56.1,Lower middle income,Sub-Saharan Africa
+CIV2014,CIV,C么te d'Ivoire,2014,3.570,8.334,0.711,47.400,0.781,-0.080,0.671,0.647,0.291,55.3,56.4,Lower middle income,Sub-Saharan Africa
+CIV2015,CIV,C么te d'Ivoire,2015,4.445,8.393,0.704,47.700,0.800,-0.053,0.744,0.664,0.347,55.6,56.7,Lower middle income,Sub-Saharan Africa
+CIV2016,CIV,C么te d'Ivoire,2016,4.543,8.437,0.617,48.300,0.769,-0.043,0.757,0.704,0.378,,,Lower middle income,Sub-Saharan Africa
+CIV2017,CIV,C么te d'Ivoire,2017,5.038,8.483,0.661,48.900,0.732,-0.111,0.771,0.698,0.357,,,Lower middle income,Sub-Saharan Africa
+CIV2018,CIV,C么te d'Ivoire,2018,5.268,8.523,0.621,49.500,0.713,-0.050,0.791,0.682,0.386,,,Lower middle income,Sub-Saharan Africa
+CIV2019,CIV,C么te d'Ivoire,2019,5.392,8.564,0.679,50.100,0.736,-0.017,0.799,0.674,0.425,,,Lower middle income,Sub-Saharan Africa
+CIV2020,CIV,C么te d'Ivoire,2020,5.257,8.565,0.613,50.700,0.770,0.016,0.777,0.693,0.340,,,Lower middle income,Sub-Saharan Africa
 JAM2006,JAM,Jamaica,2006,6.208,9.225,0.909,64.900,0.738,-0.004,0.946,0.788,0.201,41.2,43.2,Upper middle income,Latin America & Caribbean
 JAM2011,JAM,Jamaica,2011,5.374,9.164,0.855,66.220,0.796,-0.064,0.909,0.836,0.237,40.8,42.7,Upper middle income,Latin America & Caribbean
 JAM2013,JAM,Jamaica,2013,5.709,9.151,0.865,66.460,0.793,-0.021,0.931,0.734,0.312,40.7,42.6,Upper middle income,Latin America & Caribbean
